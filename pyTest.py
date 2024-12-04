@@ -1,2 +1,2 @@
 def test():
-    print('ha python hi bnauga smjhe    ')
+    print('ha python hi bnauga smjhe bhai    ')
